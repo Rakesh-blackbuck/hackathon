@@ -1,0 +1,16 @@
+{
+  "name": "zinka-app",
+  "version": "0.1.0",
+  "description": "zinka server and client app",
+  "main": "serverapp.js",
+  "dependencies": {
+    "express": "~4.13.1"
+  },
+  
+  "scripts": {
+    "start" :"node serverapp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "test",
+  "license": "BSD-2-Clause"
+}
